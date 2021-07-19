@@ -1020,10 +1020,19 @@ href="/premium_ticket/store.pdf" .mod-hover" target="_blank
 .mod-link-arrow
 
 ._texts
+.brand-index-about ._item ._texts
+
 
 ._txt
 
 .mod-link-color-brand a
+
+.mod-link-color-brand p
+
+
+
+
+.brand-index-about ._item ._texts ._cap
 
 /*common*/
 .brand-common-recents ._items ._item ._texts ._cap { margin: 0; }
@@ -1490,6 +1499,19 @@ a[target=_blank] .mod-link-arrow:not(.mod-icon-pdf)::after, a[target=_blank].mod
 .brand-menu-index-reccomends ._item ._texts ._txt { font-size: 0.75rem; margin-top: 2px; }
   
 
+
+
+
+
+.brand-index-about ._item ._texts ._cap { font-weight: bold; }
+
+.brand-index-about ._item ._texts ._cap { font-size: 1.25rem; }
+  
+.brand-index-about ._item ._texts ._cap { font-size: 0.8125rem; }
+  
+
+
+
 /*color  */
 .brand-menu-index-visuals ._item ._cap {color: #ff0;}
 
@@ -1526,4 +1548,65 @@ a[target=_blank].mod-link-arrow::after {color: #d2000f;}
 
 
 .mod-link-color-brand a {color: #d2000f;}
+
+
+
+
+
+/*CMMON*/
+/* common */
+.mod-btn.mod-btn-red{border: 2px #d2000f solid;background-color: #d2000f;}
+.mod-btn.mod-btn-white::after {color: #d2000f;}
+.mod-btn.mod-btn-#ffea98 {border: 2px #d2000f solid;background-color: #d2000f;}
+.mod-btn.mod-btn-icn-search::before,
+.mod-btn.mod-btn-icn-file::before {color: #d2000f;}
+.mod-block-anno {border: 2px solid #d2000f;}.mod-text-color-brand {color: #d2000f;}
+.mod-bg-color-brand {background-color: #d2000f;}
+.mod-link-color-brand a {color: #d2000f;}
+.mod-link-arrow::before {color: #d2000f;}
+.mod-link-menu::before {color: #d2000f;}
+a[target=_blank] .mod-link-arrow:not(.mod-icon-pdf)::after,
+a[target=_blank] .mod-link-arrow::after,
+a[target=_blank].mod-link-arrow:not(.mod-icon-pdf)::after,
+a[target=_blank].mod-link-arrow::after {color: #d2000f;}
+a[target=_blank] .mod-link-menu::after,
+a[target=_blank].mod-link-menu::after {color: #d2000f;}
+.mod-btn.mod-btn-toggle{color: #d2000f;}
+.mod-btn.mod-btn-toggle::before,
+.mod-btn.mod-btn-toggle::after{background-color: #d2000f;}
+/*ul*/
+.brand-common-title ._links ul { margin: 0; }
+
+.brand-common-recents ul { list-style: none; padding: 0; margin: 0; }
+
+.brand-common-wisywig ul { margin: 1em 0; padding: 0 0 0 1em; }
+
+.brand-common-wisywig ul.mod-list-notes li { color: #888; font-size: 0.75rem; }
+
+.brand-common-wisywig ul.mod-list-anno li { color: red; font-size: 0.875rem; }
+
+.brand-common-title ._links ul { margin: 0; }
+  
+.brand-common-title ._links ul { margin: 0; }
+ 
+
+
+/*PAGES*/
+
+.brand-index-about ._item ._texts ._cap { font-weight: bold; }
+
+.brand-index-about ._item ._texts ._txt { color: #000; }
+
+.brand-index-about ._item ._texts { padding: 20px; }
+  
+.brand-index-about ._item ._texts ._cap { font-size: 1.25rem; }
+  
+.brand-index-about ._item ._texts ._txt { font-size: 1rem; margin-top: 10px; }
+  
+.brand-index-about ._item ._texts { padding: 10px; }
+  
+.brand-index-about ._item ._texts ._cap { font-size: 0.8125rem; }
+  
+.brand-index-about ._item ._texts ._txt { font-size: 0.75rem; margin-top: 2px; }
+  
 
