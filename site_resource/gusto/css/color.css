@@ -1,0 +1,135 @@
+
+/* header footer */
+.area-header-brand ._main {border-top: 3px #d2000f solid;border-bottom: 1px #d2000f solid;}
+.area-header-brand ._main ._navi li.js-current a {color: #d2000f;}
+.area-header-brand ._main ._navi li.js-current:before {background: #d2000f;}
+.area-header-brand ._main ._btn-opener::before {background-color: #d2000f;}
+.area-header-brand ._mega-menu {background-color: #d2000f;}
+.area-header-brand ._btn-opener-logo span{background-color: #d2000f;}
+.area-footer ._brand-menu ._links ._shop li::before {color: #d2000f;}
+.area-footer ._brand-menu ._links ._other li::before {color: #d2000f;}
+.area-footer ._brand-common li::before {color: #d2000f;}
+.area-footer ._brand-list dl._company dt {border-bottom: 1px #d2000f solid;color: #d2000f;}
+.area-header-brand ._main ._btn-opener-bars span{background-color: #d2000f;}
+.area-header-brand ._main ._navi li a::before{color: #d2000f;}
+.area-footer ._btn-pagetop a{background: #d2000f;}
+
+
+/* common */
+.mod-btn.mod-btn-red{border: 2px #d2000f solid;background-color: #d2000f;}
+.mod-btn.mod-btn-white::after {color: #d2000f;}
+.mod-btn.mod-btn-#ffea98 {border: 2px #d2000f solid;background-color: #d2000f;}
+.mod-btn.mod-btn-icn-search::before,
+.mod-btn.mod-btn-icn-file::before {color: #d2000f;}
+.mod-block-anno {border: 2px solid #d2000f;}.mod-text-color-brand {color: #d2000f;}
+.mod-bg-color-brand {background-color: #d2000f;}
+.mod-link-color-brand a {color: #d2000f;}
+.mod-link-arrow::before {color: #d2000f;}
+.mod-link-menu::before {color: #d2000f;}
+a[target=_blank] .mod-link-arrow:not(.mod-icon-pdf)::after,
+a[target=_blank] .mod-link-arrow::after,
+a[target=_blank].mod-link-arrow:not(.mod-icon-pdf)::after,
+a[target=_blank].mod-link-arrow::after {color: #d2000f;}
+a[target=_blank] .mod-link-menu::after,
+a[target=_blank].mod-link-menu::after {color: #d2000f;}
+.mod-btn.mod-btn-toggle{color: #d2000f;}
+.mod-btn.mod-btn-toggle::before,
+.mod-btn.mod-btn-toggle::after{background-color: #d2000f;}
+
+/* pages common */
+
+.brand-common-title ._title h1 span._en {color: #d2000f;}
+.brand-common-title ._links li a::before {color: #d2000f;}
+.brand-common-title ._links li a[target=_blank]::after {color: #d2000f;}
+
+.brand-common-section .brand-common-title {border-bottom: 2px solid #d2000f;}
+.brand-common-section .brand-common-title h2 {color: #d2000f;}
+
+.brand-common-recents ._title {background: #ffea98;}
+.brand-common-recents ._title:before {border-top: 12px solid #ffea98;}
+.brand-common-recents .slick-dots li.slick-active {background: #d2000f;}
+
+.brand-common-reccomends ._title {background: #ffea98;}
+.brand-common-reccomends ._title:before {border-top: 12px solid #ffea98;}
+.brand-common-wisywig a {color: #d2000f;}
+.brand-common-wisywig h1,
+h1.mod-heading {border-left: 6px solid #d2000f;}
+.brand-common-wisywig h2,
+h2.mod-heading {color: #d2000f;border-bottom: 2px solid #d2000f;}
+.brand-common-wisywig h2.mod-fill,
+h2.mod-heading.mod-fill {background: #d2000f;}
+.brand-common-wisywig h2.mod-fill:after,
+h2.mod-heading.mod-fill.mod-fill:after {background: #ff0;}
+.brand-common-wisywig h3,
+h3.mod-heading {color: #d2000f;border-bottom: 1px solid #d2000f;}
+
+
+/* pages  */
+
+.brand-index-subtitle h2 span._en{color: #d2000f;}
+.brand-index-clock { background-color: #fdfae8; }
+.brand-index-clock ._clock-dial::after { background-color: #fff9e4; }
+.brand-index-clock ._clock-dial ._circle { border-color: #ffecab; background-color: #fff9e4 }
+.brand-index-clock ._clock-watch { background-color: #fdefa3;}
+.brand-index-clock ._clock-watch ._face { background-color: #f8d202;}
+.brand-index-clock ._clock-watch ._face ._name { color: #fff;}
+.brand-index-clock ._clock-watch ._face ._name::after { border-bottom-color: #ffea94; }
+.brand-index-clock ._clock-watch ._face ._txt::before,
+.brand-index-clock ._clock-watch ._face ._txt::after { background-color: #d2000f;}
+.brand-index-clock ._clock-watch ._face ._time { color: #d2000f;}
+.brand-index-clock-all ._all-btn .mod-wrap a span { color: #d2000f; }
+.brand-index-clock-all ._all-btn .mod-wrap a span::before,
+.brand-index-clock-all ._all-btn .mod-wrap a span::after { background-color: #d2000f;}
+.brand-index-mv ._btn-prev a::before,
+.brand-index-mv ._btn-next a::before { color: #d2000f;}
+.brand-index-mv .slick-dots li button:before { border-color: #d2000f; }
+.brand-index-mv .slick-dots li button:hover:before,
+.brand-index-mv .slick-dots li button:focus:before { background-color: #d2000f; }
+.brand-index-mv .slick-dots li.slick-active button:before { background-color: #d2000f; }
+.brand-index-mv ._items ._item a ._more { background-color: #d2000f;}
+.brand-index-kids ._item._item-yellow, .brand-index-campaign ._item._item-yellow { border: 1px solid #ffde00; background: #ffde00; }
+.brand-index-kids ._item._item-red, .brand-index-campaign ._item._item-red { border: 1px solid #d2000f; background: #d2000f; }
+
+@media (min-width: 768px), print {
+  .brand-index-clock ._clock-dial ._item.is-focus { border-color: #ffd54b;}
+  .brand-index-clock ._clock-dial ._item ._time {  color: #d2000f; }
+  .brand-index-clock ._clock-dial ._item ._txt { background-color: #d2000f;}
+  .brand-index-clock ._clock-dial ._item ._txt::before { border-color: transparent transparent transparent #d2000f; }
+}
+
+@media (max-width: 767px) {
+  .brand-index-clock ._clock-dial ._item ._balloon { background-color: #f5c9cc; }
+  .brand-index-clock ._clock-dial ._item.is-focus ._balloon { background-color: #d2000f; }
+  .brand-index-clock ._clock-dial ._item ._balloon::before { border-color: transparent transparent transparent #f5c9cc; }
+  .brand-index-clock ._clock-dial ._item.is-focus ._balloon::before { border-color: transparent transparent transparent #d2000f; }
+}
+
+.brand-menu-index-scroll-arrow div span {border-left: 2px solid #d2000f;border-bottom: 2px solid #d2000f;}
+.brand-menu-index-visuals ._item ._texts {background: #d2000f;}
+.brand-menu-index-visuals ._item ._cap {color: #ff0;}
+.brand-menu-index-visuals ._item ._cap::before {color: #ff0;}
+.brand-menu-index-categorys h2 {color: #d2000f;border-bottom: 2px solid #d2000f;}
+.brand-menu-detail-cover ._texts {background: #d2000f;color: #fff;}
+.brand-menu-detail-cover ._cate {color: #ff0;border-bottom: 2px solid #ff0;}
+
+.brand-menu-ranking-title h1 {border-left: 5px #d2000f solid;}
+.brand-menu-ranking-main ._item ._image svg path {fill:#ffea98;}
+.brand-menu-ranking-main ._item ._image ._no {color: #d2000f;}
+.brand-menu-ranking-main ._item._lank-best3 ._image img {outline: 3px solid #d2000f;}
+.brand-menu-ranking-main ._item._lank-best3 ._image svg path {fill: #d2000f;}
+.brand-menu-ranking-main ._item._lank-best3 ._image ._no {color: #fff;}
+.brand-menu-ranking-main ._image svg path {fill: #d2000f;}
+
+.brand-common-recents .slick-prev,
+.brand-common-recents .slick-next {border-top: 3px solid #d2000f;border-right: 3px solid #d2000f;}
+.brand-menu-ranking-main ._texts ._cap {color: #d2000f;}
+
+.brand-menu-category-title h1 {border-left: 6px #d2000f solid;}
+
+.brand-menu-index-visuals ._item ._texts:before {background: #d2000f;}
+.brand-menu-index-visuals ._item ._texts:after {color: #ff0;}
+
+.brand-coupon-index-dl{background: #d2000f;}
+.brand-coupon-index-spec ._bottom{color: #d2000f;}
+.brand-coupon-index-spec ._item ._icon:after{color: #d2000f;}
+
